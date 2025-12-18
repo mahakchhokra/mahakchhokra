@@ -1,3 +1,4 @@
+![logo](https://github.com/mahakchhokra/mahakchhokra/blob/main/OIP.webp)
 <h1 align="center">Hi 👋, I'm mahak chhokra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
